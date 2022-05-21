@@ -1,13 +1,7 @@
 {
-    "short_name": "HP",
-    "name": "Portfolio • Hrishikesh Paul",
-    "icons": [
-        {
-            "src": "logo.png",
-            "type": "image/png",
-            "sizes": "512x512"
-        }
-    ],
+    "short_name": "BMD",
+    "name": "Portfolio • Bui Minh Duc",
+    "icons": [],
     "start_url": ".",
     "display": "standalone",
     "theme_color": "#000000",
